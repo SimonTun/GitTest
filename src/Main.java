@@ -7,6 +7,13 @@ public class Main {
         System.out.println("Again... testing with test2");
         System.out.println("Third time. Puuuuuush");
 
+        method();
+
+
+
+    }
+    public static void method(){
+        System.out.println("In this branch we have called a method");
     }
 
 }
